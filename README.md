@@ -1,4 +1,4 @@
-# DreamTeam - Soccer Manager Arcade
+<img width="2400" height="1080" alt="Screenshot_20260316_163128" src="https://github.com/user-attachments/assets/ca1a46fa-3239-414a-8214-3ef558fe2cb0" />DreamTeam - Soccer Manager Arcade
 
 DreamTeam is a high-energy soccer management application for Android that turns the player-signing process into an interactive arcade experience. Instead of static menus, users engage with a physics-based roulette system to build their elite squad. The app combines real-world player data with strategic turn-based match duels, offering a complete loop of collection, management, and gameplay.
 
@@ -33,3 +33,7 @@ DreamTeam is a high-energy soccer management application for Android that turns 
 *   **Dynamic Visual Effects:** Implemented a "Zap" overlay system that triggers visual and audio feedback based on the statistical rarity of the player drawn.
 *   **Turn-Based AI:** The "Match Play" mode features a greedy AI opponent that strategically plays cards based on the specific match moment (Pace, Shooting, etc.).
 *   **Immersive UX:** Complete immersive mode implementation hiding system bars to provide a full screen arcade feel.
+
+
+
+
